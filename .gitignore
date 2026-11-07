@@ -1,0 +1,2 @@
+# Only allowing archived versions, since files are way too big
+*.lib
